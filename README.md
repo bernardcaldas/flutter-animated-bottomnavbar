@@ -1,6 +1,8 @@
-# new_project
+# Animated Bottom navigation bar Flutter
 
-A new Flutter project.
+Animated bottom navigation bar using Dart ( Flutter Development )
+
+![Alt Text](https://github.com/bernardcaldas/flutter-animated-bottomnavbar/blob/master/screen-navbar.gif)
 
 ## Getting Started
 
